@@ -5,7 +5,7 @@
 
 <h2  align="center"> Youtube Integration API </h2>
 
-<h4  align="center"> The API can be used to integrate aToutube Channel's Playlist and Videos on their websites. <h4>
+<h4  align="center"> The API can be used to integrate a Youtube Channel's Playlist and Videos on their websites. <h4>
 
 </p>
 
